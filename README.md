@@ -48,4 +48,12 @@ The primary goal of this project is to **parse, summarize, and analyze** textual
 🔸 **Performance Optimization:** Future improvements could involve **caching responses** or using **hybrid models** for better accuracy.  
 
  **Conclusion**  
-This **LLM Parsing project** successfully integrates **ChatGPT & DeepSeek** to process textual data efficiently. By leveraging the power of **multiple LLMs**, it provides high-quality language understanding for **research, business, and automation**. Future improvements can focus on **fine-tuning responses**, integrating **additional AI models**, and enhancing the **user interface**. 🚀  
+This **LLM Parsing project** successfully integrates **ChatGPT & DeepSeek** to process textual data efficiently. By leveraging the power of **multiple LLMs**, it provides high-quality language understanding for **research, business, and automation**. Future improvements can focus on **fine-tuning responses**, integrating **additional AI models**, and enhancing the **user interface**. 
+
+**Output**   **(If API Keys Are Correct)** 
+
+ChatGPT Parsed Output: ChatGPT Parsed Output: AI has significantly transformed healthcare by improving diagnostics, personalized treatments, and patient management. Machine learning models assist in detecting diseases like cancer at early stages with high accuracy. AI-driven chatbots and virtual assistants enhance patient engagement, while predictive analytics optimize hospital workflows. However, challenges such as data privacy, bias, and ethical concerns remain. Future advancements in AI will likely lead to more efficient, affordable, and accessible healthcare solutions globally.
+
+DeepSeek Parsed Output: DeepSeek Parsed Output: AI is revolutionizing healthcare by enhancing efficiency, accuracy, and accessibility. Deep learning models assist in medical imaging, detecting diseases earlier than traditional methods. AI-powered virtual assistants streamline administrative tasks, reducing the workload on healthcare professionals. Additionally, AI-driven drug discovery accelerates research and development. However, ethical concerns such as bias, data security, and transparency must be addressed to ensure responsible AI integration in healthcare.
+
+
